@@ -2,7 +2,7 @@
 
 We can use the API client to query the jump clients that you have deployed and export the data so it is more easy to manipulate than in the GUI.
 
-You download the API client, and can give it a short command to list your jump clients
+You download the API client, and can give it a short command to list your jump clients, this just requires the use of the configuration API
 
 **btapi --env-file vars.txt list jump-client**
 
