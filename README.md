@@ -1,4 +1,4 @@
-# Remote Support jump_client_report v1
+# Remote Support Jump_Client_Report v1
 
 We can use the API client to query the jump clients that you have deployed and export the data so it is more easy to manipulate than in the GUI.
 
