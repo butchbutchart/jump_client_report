@@ -10,7 +10,9 @@ You download the API client, and can give it a short command to list your jump c
 
 
 BT_CLIENT_ID=[ID]
+
 BT_CLIENT_SECRET=[secret]
+
 BT_API_HOST=[name].beyondtrustcloud.com
 
 
