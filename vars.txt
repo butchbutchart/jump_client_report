@@ -1,0 +1,3 @@
+ BT_CLIENT_ID=<client_id of the API account to use>
+ BT_CLIENT_SECRET=<client_secret of the API account to use>
+ BT_API_HOST=<hostname of the site, e.g. "example.beyondtrust.com">
