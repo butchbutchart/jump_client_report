@@ -23,6 +23,6 @@ $selectedProperties = $jsonObjects | ForEach-Object {
 }
 
 # Export the selected properties to a CSV file
-$selectedProperties | Export-Csv -Path $csvFilePath -NoTypeInformation
+$selectedProperties | Export-Csv -Path $csvFileName -NoTypeInformation
 
 Write-Host "Output saved as $csvFileName"
